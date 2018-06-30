@@ -1,0 +1,12 @@
+{
+  "name": "copilot-compiler",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "author": "PartPilot developers@partpilot.com",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "coffeescript": "^2.3.1"
+  }
+}
